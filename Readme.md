@@ -5,7 +5,6 @@ Positioner is a mini node script that helps add suffix to the back of numbers to
 Copy code from [makinyelure](github.com/makinyelure) into a folder in your node or js based application
 
 ##	Usage
-
 ```angular
 import * as Positioner from "./positioner";
 let positioner = new Positioner();
@@ -24,3 +23,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ##	License
 Not large enough for license
+
