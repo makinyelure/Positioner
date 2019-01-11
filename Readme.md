@@ -10,6 +10,12 @@ Copy code from [makinyelure](github.com/makinyelure) into a folder in your node 
 import * as Positioner from "./positioner";
 let positioner = new Positioner();
 positioner.get(2); # returns 2nd
+```
+
+```javascript
+var positioner = new Positioner();
+positioner.get(5); # returns 5th
+```
 
 
 ##	Contributing
